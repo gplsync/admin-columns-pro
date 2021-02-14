@@ -1,5 +1,12 @@
 == Changelog ==
 
+= 5.4.2 =
+Release Date: February 8th, 2021
+
+* [Fixed] The title was not saved correctly
+* [Fixed] Column set permissions were not saved correctly
+* [Improved] Some column labels will automatically change when altering a specific setting
+
 = 5.4.1 =
 Release Date: February 3rd, 2021
 
